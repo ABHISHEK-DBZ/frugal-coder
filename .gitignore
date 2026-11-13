@@ -1,0 +1,16 @@
+bifrost_token.txt
+frugal_coder.db
+*.db
+*.db-shm
+*.db-wal
+.env
+__pycache__/
+*.pyc
+bifrost_out.log
+bifrost_err.log
+node_modules/
+.next/
+dist/
+build/
+*.log
+
