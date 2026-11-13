@@ -66,12 +66,3 @@ Outputs raw data to `BENCHMARK_RAW_RESULTS.json` and updates the frontend analyt
 
 ---
 
-## 4. Key Documentation Index
-
-- [FINAL_ARCHITECTURE.md](file:///c:/Users/Abhishek/Downloads/loopos/FINAL_ARCHITECTURE.md): Complete system topology, component interactions, and data models.
-- [DEMO_SCRIPT.md](file:///c:/Users/Abhishek/Downloads/loopos/DEMO_SCRIPT.md): Five-minute step-by-step hackathon presentation guide.
-- [BENCHMARK_REPORT.md](file:///c:/Users/Abhishek/Downloads/loopos/BENCHMARK_REPORT.md): Statistical token and cost analysis holding Groq constant.
-- [SECURITY_REPORT.md](file:///c:/Users/Abhishek/Downloads/loopos/SECURITY_REPORT.md): Threat modeling, prompt injection defenses, and audit logging.
-- [KNOWN_LIMITATIONS.md](file:///c:/Users/Abhishek/Downloads/loopos/KNOWN_LIMITATIONS.md): Transparent disclosure of operational limits and roadmap items.
-- [FINAL_SUBMISSION_CHECKLIST.md](file:///c:/Users/Abhishek/Downloads/loopos/FINAL_SUBMISSION_CHECKLIST.md): Verification matrix for prototype submission.
-
